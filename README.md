@@ -1,0 +1,1 @@
+[ ![Codeship Status for DusanKasan/dusankasan.sk](https://codeship.com/projects/3e3e6670-844d-0132-ac7b-4a95a2d7e957/status?branch=master)](https://codeship.com/projects/58359)
